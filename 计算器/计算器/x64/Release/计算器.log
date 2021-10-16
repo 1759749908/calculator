@@ -1,0 +1,13 @@
+﻿  源.cpp
+C:\Users\professor\Desktop\计算器\计算器\源.cpp(59,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\professor\Desktop\计算器\计算器\源.cpp(71,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\professor\Desktop\计算器\计算器\源.cpp(162,57): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\professor\Desktop\计算器\计算器\源.cpp(193,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\professor\Desktop\计算器\计算器\源.cpp(208,32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\professor\Desktop\计算器\计算器\源.cpp(711,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  193 of 200 functions (96.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  计算器.vcxproj -> C:\Users\professor\Desktop\计算器\计算器\x64\Release\计算器.exe
